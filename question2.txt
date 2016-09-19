@@ -1,0 +1,34 @@
+--- Counting and grouping by education level, where income >50K ---
+-------------------------------------
+[10th] groupSize = 62 takes 0.19%  in total
+-------------------------------------
+[11th] groupSize = 60 takes 0.18%  in total
+-------------------------------------
+[12th] groupSize = 33 takes 0.10%  in total
+-------------------------------------
+[1st-4th] groupSize = 6 takes 0.02%  in total
+-------------------------------------
+[5th-6th] groupSize = 16 takes 0.05%  in total
+-------------------------------------
+[7th-8th] groupSize = 40 takes 0.12%  in total
+-------------------------------------
+[9th] groupSize = 27 takes 0.08%  in total
+-------------------------------------
+[Assoc-acdm] groupSize = 265 takes 0.81%  in total
+-------------------------------------
+[Assoc-voc] groupSize = 361 takes 1.11%  in total
+-------------------------------------
+[Bachelors] groupSize = 2221 takes 6.82%  in total
+-------------------------------------
+[Doctorate] groupSize = 306 takes 0.94%  in total
+-------------------------------------
+[HS-grad] groupSize = 1675 takes 5.14%  in total
+-------------------------------------
+[Masters] groupSize = 959 takes 2.95%  in total
+-------------------------------------
+[Prof-school] groupSize = 423 takes 1.30%  in total
+-------------------------------------
+[Some-college] groupSize = 1387 takes 4.26%  in total
+-------------------------------------
+Total people that income > 50k = 7841, takes 24.08% in total
+Total people = 32561
