@@ -52,17 +52,17 @@
       <file leaf-file-name="Question3AnalyzerTest.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/com/fpt/analyzer/main/Question3AnalyzerTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-6.4074073">
-              <caret line="44" column="301" selection-start-line="44" selection-start-column="301" selection-end-line="44" selection-end-column="301" />
+            <state vertical-scroll-proportion="59.407406">
+              <caret line="55" column="21960" selection-start-line="55" selection-start-column="21960" selection-end-line="55" selection-end-column="21960" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
+            <state vertical-scroll-proportion="-0.0">
               <caret line="0" column="9" selection-start-line="0" selection-start-column="9" selection-end-line="0" selection-end-column="9" />
               <folding />
             </state>
@@ -73,11 +73,9 @@
         <entry file="file://$PROJECT_DIR$/src/main/java/com/fpt/analyzer/main/AnalyzerMain.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="37" column="22" selection-start-line="37" selection-start-column="22" selection-end-line="37" selection-end-column="22" />
+              <caret line="41" column="25" selection-start-line="41" selection-start-column="25" selection-end-line="41" selection-end-column="25" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#1953#1954#0" expanded="true" />
-                <element signature="e#1994#1995#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -93,11 +91,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="question3.txt" pinned="false" current-in-tab="false">
+      <file leaf-file-name="question3.txt" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/question3.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.77554744">
+              <caret line="25" column="0" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -115,21 +113,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="OutputStreamWriter.java" pinned="false" current-in-tab="false">
-        <entry file="jar://C:/Program Files/Java/jdk1.8.0_65/src.zip!/java/io/OutputStreamWriter.java">
+      <file leaf-file-name="Question3Analyzer.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/fpt/analyzer/main/Question3Analyzer.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="76" column="13" selection-start-line="76" selection-start-column="13" selection-end-line="76" selection-end-column="13" />
+              <caret line="50" column="60" selection-start-line="50" selection-start-column="60" selection-end-line="50" selection-end-column="60" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="System.java" pinned="false" current-in-tab="false">
-        <entry file="jar://C:/Program Files/Java/jdk1.8.0_65/src.zip!/java/lang/System.java">
+      <file leaf-file-name="OutputStreamWriter.java" pinned="false" current-in-tab="false">
+        <entry file="jar://C:/Program Files/Java/jdk1.8.0_65/src.zip!/java/io/OutputStreamWriter.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="109" column="36" selection-start-line="109" selection-start-column="36" selection-end-line="109" selection-end-column="36" />
+              <caret line="76" column="13" selection-start-line="76" selection-start-column="13" selection-end-line="76" selection-end-column="13" />
               <folding />
             </state>
           </provider>
@@ -171,12 +169,12 @@
         <option value="$PROJECT_DIR$/src/test/java/com/fpt/analyzer/main/ResultBuffer.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/fpt/bean/datasource/DataSourceTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/fpt/analyzer/main/Question2AnalyzerTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/fpt/analyzer/main/Question3Analyzer.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/fpt/analyzer/main/Question2Analyzer.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/fpt/analyzer/main/AnalyzerMain.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/fpt/AbstractTest.java" />
-        <option value="$PROJECT_DIR$/src/test/java/com/fpt/analyzer/main/Question3AnalyzerTest.java" />
         <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/src/main/java/com/fpt/analyzer/main/Question3Analyzer.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/fpt/analyzer/main/Question3AnalyzerTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/fpt/analyzer/main/AnalyzerMain.java" />
       </list>
     </option>
   </component>
@@ -575,33 +573,7 @@
       <recent name="groovy.util.GroovyTestCase" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.com.fpt in fpt-test">
-    <configuration default="false" name="Question3AnalyzerTest.testWithSimpleDataSource" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="com.fpt.analyzer.main.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <module name="fpt-test" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="com.fpt.analyzer.main" />
-      <option name="MAIN_CLASS_NAME" value="com.fpt.analyzer.main.Question3AnalyzerTest" />
-      <option name="METHOD_NAME" value="testWithSimpleDataSource" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <envs />
-      <patterns />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Application.AnalyzerMain">
     <configuration default="false" name="Question3AnalyzerTest.testWithOnlineCSVDataSource" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -688,6 +660,32 @@
       <option name="MAIN_CLASS_NAME" />
       <option name="METHOD_NAME" />
       <option name="TEST_OBJECT" value="package" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="false" name="Question3AnalyzerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.fpt.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="data-engineer-practice" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.fpt.analyzer.main" />
+      <option name="MAIN_CLASS_NAME" value="com.fpt.analyzer.main.Question3AnalyzerTest" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
@@ -990,19 +988,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="JUnit.Question3AnalyzerTest.testWithSimpleDataSource" />
-      <item index="1" class="java.lang.String" itemvalue="JUnit.Question3AnalyzerTest.testWithOnlineCSVDataSource" />
-      <item index="2" class="java.lang.String" itemvalue="Application.AnalyzerMain" />
-      <item index="3" class="java.lang.String" itemvalue="JUnit.com.fpt.analyzer.main in fpt-test" />
-      <item index="4" class="java.lang.String" itemvalue="JUnit.com.fpt in fpt-test" />
+      <item index="0" class="java.lang.String" itemvalue="JUnit.Question3AnalyzerTest.testWithOnlineCSVDataSource" />
+      <item index="1" class="java.lang.String" itemvalue="Application.AnalyzerMain" />
+      <item index="2" class="java.lang.String" itemvalue="JUnit.com.fpt.analyzer.main in fpt-test" />
+      <item index="3" class="java.lang.String" itemvalue="JUnit.com.fpt in fpt-test" />
+      <item index="4" class="java.lang.String" itemvalue="JUnit.Question3AnalyzerTest" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="JUnit.com.fpt in fpt-test" />
-        <item index="1" class="java.lang.String" itemvalue="JUnit.com.fpt.analyzer.main in fpt-test" />
-        <item index="2" class="java.lang.String" itemvalue="Application.AnalyzerMain" />
-        <item index="3" class="java.lang.String" itemvalue="JUnit.Question3AnalyzerTest.testWithOnlineCSVDataSource" />
-        <item index="4" class="java.lang.String" itemvalue="JUnit.Question3AnalyzerTest.testWithSimpleDataSource" />
+        <item index="0" class="java.lang.String" itemvalue="Application.AnalyzerMain" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit.Question3AnalyzerTest" />
+        <item index="2" class="java.lang.String" itemvalue="JUnit.com.fpt in fpt-test" />
+        <item index="3" class="java.lang.String" itemvalue="JUnit.com.fpt.analyzer.main in fpt-test" />
+        <item index="4" class="java.lang.String" itemvalue="JUnit.Question3AnalyzerTest.testWithOnlineCSVDataSource" />
       </list>
     </recent_temporary>
   </component>
@@ -1025,8 +1023,20 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Question3AnalyzerTest_testWithOnlineCSVDataSource - 2016.09.19 at 16h 51m 43s.xml">
-      <configuration name="Question3AnalyzerTest.testWithOnlineCSVDataSource" configurationId="JUnit" />
+    <history-entry file="Question3AnalyzerTest - 2016.09.19 at 17h 54m 34s.xml">
+      <configuration name="Question3AnalyzerTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Question3AnalyzerTest - 2016.09.19 at 17h 56m 30s.xml">
+      <configuration name="Question3AnalyzerTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Question3AnalyzerTest - 2016.09.19 at 17h 57m 34s.xml">
+      <configuration name="Question3AnalyzerTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Question3AnalyzerTest - 2016.09.19 at 17h 58m 01s.xml">
+      <configuration name="Question3AnalyzerTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Question3AnalyzerTest - 2016.09.19 at 17h 58m 51s.xml">
+      <configuration name="Question3AnalyzerTest" configurationId="JUnit" />
     </history-entry>
     <history-entry file="Question3AnalyzerTest_testWithOnlineCSVDataSource - 2016.09.19 at 16h 52m 18s.xml">
       <configuration name="Question3AnalyzerTest.testWithOnlineCSVDataSource" configurationId="JUnit" />
@@ -1036,18 +1046,6 @@
     </history-entry>
     <history-entry file="Question3AnalyzerTest_testWithOnlineCSVDataSource - 2016.09.19 at 17h 00m 48s.xml">
       <configuration name="Question3AnalyzerTest.testWithOnlineCSVDataSource" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="Question3AnalyzerTest_testWithSimpleDataSource - 2016.09.19 at 16h 48m 24s.xml">
-      <configuration name="Question3AnalyzerTest.testWithSimpleDataSource" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="Question3AnalyzerTest_testWithSimpleDataSource - 2016.09.19 at 16h 49m 05s.xml">
-      <configuration name="Question3AnalyzerTest.testWithSimpleDataSource" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="Question3AnalyzerTest_testWithSimpleDataSource - 2016.09.19 at 16h 49m 41s.xml">
-      <configuration name="Question3AnalyzerTest.testWithSimpleDataSource" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="Question3AnalyzerTest_testWithSimpleDataSource - 2016.09.19 at 16h 51m 31s.xml">
-      <configuration name="Question3AnalyzerTest.testWithSimpleDataSource" configurationId="JUnit" />
     </history-entry>
     <history-entry file="com_fpt_analyzer_main_in_fpt-test - 2016.09.19 at 17h 14m 31s.xml">
       <configuration name="com.fpt.analyzer.main in fpt-test" configurationId="JUnit" />
@@ -1066,13 +1064,13 @@
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32936078" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Documentation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="FLOATING" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" x="95" y="1054" width="1730" height="850" />
+      <window_info id="Documentation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="FLOATING" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" x="98" y="98" width="1724" height="844" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.37594798" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20575693" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19509594" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -1303,14 +1301,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/fpt/analyzer/main/Question3Analyzer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="20" column="79" selection-start-line="20" selection-start-column="6" selection-end-line="20" selection-end-column="79" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/fpt/analyzer/main/Question2Analyzer.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -1339,44 +1329,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/fpt/analyzer/main/AnalyzerMain.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="37" column="22" selection-start-line="37" selection-start-column="22" selection-end-line="37" selection-end-column="22" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#1953#1954#0" expanded="true" />
-            <element signature="e#1994#1995#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/question2.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/question3.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/fpt/analyzer/main/Question2AnalyzerTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="50" column="73" selection-start-line="50" selection-start-column="73" selection-end-line="50" selection-end-column="73" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/fpt/bean/datasource/DataSourceTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -1399,18 +1351,62 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/fpt/analyzer/main/Question3AnalyzerTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-6.4074073">
-          <caret line="44" column="301" selection-start-line="44" selection-start-column="301" selection-end-line="44" selection-end-column="301" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="9" selection-start-line="0" selection-start-column="9" selection-end-line="0" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/fpt/analyzer/main/Question2AnalyzerTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="50" column="73" selection-start-line="50" selection-start-column="73" selection-end-line="50" selection-end-column="73" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/fpt/analyzer/main/Question3Analyzer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="50" column="60" selection-start-line="50" selection-start-column="60" selection-end-line="50" selection-end-column="60" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/fpt/analyzer/main/Question3AnalyzerTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="59.407406">
+          <caret line="55" column="21960" selection-start-line="55" selection-start-column="21960" selection-end-line="55" selection-end-column="21960" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/fpt/analyzer/main/AnalyzerMain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="41" column="25" selection-start-line="41" selection-start-column="25" selection-end-line="41" selection-end-column="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/question2.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/question3.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.77554744">
+          <caret line="25" column="0" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
           <folding />
         </state>
       </provider>

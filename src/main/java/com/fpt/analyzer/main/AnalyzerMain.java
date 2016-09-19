@@ -38,17 +38,6 @@ public class AnalyzerMain {
         vertx.close();
     }
 
-    private class ConsoleOutputStream extends BufferedOutputStream{
-        public ConsoleOutputStream() {
-            super(System.out);
-        }
-
-        @Override
-        public void close() throws IOException {
-           //Do nothing
-        }
-    }
-
 
     public static void main(String... args) throws FileNotFoundException {
         new AnalyzerMain().start();

@@ -1,5 +1,30 @@
 --- Counting and grouping by education level, where income <=50K ---
 -------------------------------------
+Smallest education, occupation group:
+-------------------------------------
+[Masters, Priv-house-serv] groupSize = 1 takes 0.00%  in total
+-------------------------------------
+[Preschool, Prof-specialty] groupSize = 1 takes 0.00%  in total
+-------------------------------------
+[Prof-school, Machine-op-inspct] groupSize = 1 takes 0.00%  in total
+-------------------------------------
+[Doctorate, Transport-moving] groupSize = 1 takes 0.00%  in total
+-------------------------------------
+[Bachelors, Armed-Forces] groupSize = 1 takes 0.00%  in total
+-------------------------------------
+[5th-6th, Protective-serv] groupSize = 1 takes 0.00%  in total
+-------------------------------------
+[5th-6th, Prof-specialty] groupSize = 1 takes 0.00%  in total
+-------------------------------------
+[1st-4th, Protective-serv] groupSize = 1 takes 0.00%  in total
+-------------------------------------
+[12th, Armed-Forces] groupSize = 1 takes 0.00%  in total
+-------------------------------------
+[Doctorate, Craft-repair] groupSize = 1 takes 0.00%  in total
+-------------------------------------
+[5th-6th, Tech-support] groupSize = 1 takes 0.00%  in total
+Statistics for all groups
+-------------------------------------
 [10th, ?] groupSize = 100 takes 0.31%  in total
 -------------------------------------
 [10th, Adm-clerical] groupSize = 38 takes 0.12%  in total
